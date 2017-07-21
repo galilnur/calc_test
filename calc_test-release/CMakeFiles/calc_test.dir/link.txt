@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/calc_test.dir/exprLexeme.cpp.o CMakeFiles/calc_test.dir/exprLexer.cpp.o CMakeFiles/calc_test.dir/exprTree.cpp.o CMakeFiles/calc_test.dir/main.cpp.o CMakeFiles/calc_test.dir/exprParser.cpp.o  -o calc_test -rdynamic 
